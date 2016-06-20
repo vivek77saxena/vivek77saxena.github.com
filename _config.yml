@@ -10,7 +10,7 @@ title:               Leap Of Code
 tagline:             'by Vivek Saxena'
 description:         'A landing page for everything front-end and a personal blog.'
 url:                 http://www.leapofcode.com
-baseurl:             ''
+baseurl:             '/'
 gems: [jekyll-paginate]
 paginate: 3
 
@@ -20,9 +20,7 @@ author:
   url:               leapofcode.com
   email:             vivek77saxena@gmail.com
   github:            vivek77saxena
-  twitter:           vivek77saxena
   linkedin:          vivek77saxena
-  goodreads:         vivek77saxena
 
 # Custom vars
 version:             1.0.0
