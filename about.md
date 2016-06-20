@@ -10,11 +10,3 @@ web applications with responsive design and an appealing UI using JavaScript, An
     0.99 : 0.99365  =  0.03 //rather than slacking every day 
                                                           [Read more](http://taiwanrocks.net/training-principle-the-1-01-law/)          
 I like challenges and problem solving in a more thoughtful way combining creativity and logic. During development I like the iterative approach but my professional experience taught me to be flexible depending on different scenarios.
-
-<!--### More Information
-
-Thanks!-->
-
-### Contact me
-
-[vivek77saxena@gmail.com](mailto:vivek77saxena@gmail.com)
