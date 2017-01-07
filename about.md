@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-I currently live and work in New Jersey. I work on front-end for most and love building
+I currently live and work in Philadelphia. I work on front-end for most and love building
 web applications with responsive design and an appealing UI using JavaScript, AngularJS, NodeJS, and lot other front-end libraries and frameworks. I also enjoy working on applications with Java, J2EE backend but these days more like the flexibility of working in the front end. Besides that I am all for learning something new every day. Or to say in other way I see the [below expressions](http://taiwanrocks.net/training-principle-the-1-01-law/) to to be somewhat true.
 
     1.01 :  1.01365 =  37.8 //pushing everyday in bits you gain a lot
