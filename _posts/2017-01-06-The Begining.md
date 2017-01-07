@@ -1,9 +1,12 @@
 ---
 layout: page
-title: An ode to the best mate and maybe the worst year.
+title: An ode to the best person and maybe the worst year.
 ---
 
 "Optimism? Pessimism? F*** that. We're going to make it happen. As God as my bloody witness, I'm hell-bent on making it work." - Elon Musk
+
+
+
 
 
 There was time when time felt wrong,
@@ -20,6 +23,8 @@ I was so empty.
 
 Then there was you.
                                                 
+
+
 
 <!--### More Information
 
