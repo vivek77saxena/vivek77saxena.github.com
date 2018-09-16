@@ -8,8 +8,8 @@ highlighter:      rouge # changed from `pygments` as github says so
 # Setup
 title:               Leap Of Code
 tagline:             'by Vivek Saxena'
-description:         'A personal blog and a blog for everything front-end.'
-url:                 http://www.leapofcode.com
+description:         'A quick lookup source and a blog for everything front-end.'
+url:                 vivek77saxena.github.io
 baseurl:             '/'
 gems: [jekyll-paginate]
 paginate: 3
@@ -17,7 +17,7 @@ paginate: 3
 # About/contact
 author:
   name:              Vivek Saena
-  url:               leapofcode.com
+  url:               vivek77saxena.github.io
   email:             vivek77saxena@gmail.com
   github:            vivek77saxena
   linkedin:          vivek77saxena
